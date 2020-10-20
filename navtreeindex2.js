@@ -1,5 +1,10 @@
 var NAVTREEINDEX2 =
 {
+"d8/d71/group__k__means.html#gad339c41d3ee9e6729aca9e9ab3f7d2d9":[14,0,7,1,4],
+"d8/d71/group__k__means.html#gad339c41d3ee9e6729aca9e9ab3f7d2d9":[12,2,1,3],
+"d8/d71/group__k__means.html#gadee39a3f17bf5144df5592e48dbfc9f7":[14,0,7,1,3],
+"d8/d71/group__k__means.html#gadee39a3f17bf5144df5592e48dbfc9f7":[12,2,1,2],
+"d8/d7a/structtnode.html":[13,0,36],
 "d8/d7a/structtnode.html#a44127c1d017332403d91a96a1633a76a":[13,0,36,3],
 "d8/d7a/structtnode.html#ad302cb43ee1cab8a29581e8aaf76bbd4":[13,0,36,0],
 "d8/d7a/structtnode.html#ae1f202bf98d22f8316eeb71b68a59951":[13,0,36,1],
@@ -52,8 +57,8 @@ var NAVTREEINDEX2 =
 "da/d2a/group__adaline.html":[12,2,0],
 "da/d2a/group__adaline.html#ga20d3642e0a87f36fdb7bf91b023cd166":[12,2,0,5],
 "da/d2a/group__adaline.html#ga20d3642e0a87f36fdb7bf91b023cd166":[14,0,7,0,4],
-"da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120":[12,2,0,6],
 "da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120":[14,0,7,0,5],
+"da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120":[12,2,0,6],
 "da/d2a/group__adaline.html#ga43576566b020c4157d4fb28f0dd45cfa":[12,2,0,3],
 "da/d2a/group__adaline.html#ga43576566b020c4157d4fb28f0dd45cfa":[14,0,7,0,2],
 "da/d2a/group__adaline.html#ga555ba960994e9bccb2029764588f694f":[12,2,0,2],
@@ -66,8 +71,8 @@ var NAVTREEINDEX2 =
 "da/d2a/group__adaline.html#gab4d49d73dec94c092b7ffadba55fb020":[14,0,7,0,0],
 "da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94":[12,2,0,7],
 "da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94":[14,0,7,0,6],
-"da/d2a/group__adaline.html#gacd88962c5f6341e43cbc69b4a7d3485b":[12,2,0,9],
 "da/d2a/group__adaline.html#gacd88962c5f6341e43cbc69b4a7d3485b":[14,0,7,0,9],
+"da/d2a/group__adaline.html#gacd88962c5f6341e43cbc69b4a7d3485b":[12,2,0,9],
 "da/d35/problem__1_2sol1_8c.html":[14,0,10,0,0],
 "da/d35/problem__1_2sol1_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[14,0,10,0,0,0],
 "da/d38/durand__kerner__roots_8c.html":[14,0,9,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX2 =
 "de/d7b/group__vec__3d.html#ga4fd194972bea4884e0b33cf4a166d14e":[12,0,5,4],
 "de/d7b/group__vec__3d.html#ga4fd194972bea4884e0b33cf4a166d14e":[14,0,4,2,3],
 "de/d7b/group__vec__3d.html#ga5082b0720c2cc51ae84bf19bd76dc849":[12,0,5,3],
-"de/d7b/group__vec__3d.html#ga5082b0720c2cc51ae84bf19bd76dc849":[14,0,4,2,1],
-"de/d7b/group__vec__3d.html#ga94805165d037d111d7d7c0df99e3a5de":[14,0,4,2,7],
-"de/d7b/group__vec__3d.html#ga94805165d037d111d7d7c0df99e3a5de":[12,0,5,7],
-"de/d7b/group__vec__3d.html#ga97da356cb7d5da73a0ac9bad09a435cc":[12,0,5,9],
-"de/d7b/group__vec__3d.html#ga97da356cb7d5da73a0ac9bad09a435cc":[14,0,4,2,9],
-"de/d7b/group__vec__3d.html#gaa6b5ac18429ffb0131dc8593d31c25a4":[12,0,5,6]
+"de/d7b/group__vec__3d.html#ga5082b0720c2cc51ae84bf19bd76dc849":[14,0,4,2,1]
 };

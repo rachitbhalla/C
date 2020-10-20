@@ -1,5 +1,10 @@
 var NAVTREEINDEX1 =
 {
+"d4/dd4/struct_graph.html#a268ba18d421817ad8713c2e92f19d82a":[13,0,15,5],
+"d4/dd4/struct_graph.html#a2b722f7cfa7a21e4cb5fae488b3d4dcc":[13,0,15,7],
+"d4/dd4/struct_graph.html#a3535be2ce0d62152e54395951330da81":[13,0,15,4],
+"d4/dd4/struct_graph.html#a3ce250f958f7e96ffd9eb06780c21fbe":[13,0,15,1],
+"d4/dd4/struct_graph.html#a6afcd41564ea00294a4c089414979ca1":[13,0,15,8],
 "d4/dd4/struct_graph.html#a72bb0a04571b49a568e0eed371a35c33":[13,0,15,6],
 "d4/dd4/struct_graph.html#aa3f9278e0b50fbec06b93cda9c733dfe":[13,0,15,9],
 "d4/dd4/struct_graph.html#aaaffb7e0621115519a09be31a33c6cda":[13,0,15,0],
@@ -32,8 +37,8 @@ var NAVTREEINDEX1 =
 "d5/d4c/group__sorting.html#ga4fdb8af29a07ac8f496e49a11bf9f1bd":[12,4,0],
 "d5/d4c/group__sorting.html#ga5bc16eaf3ffe6a6ab66780dd445904c0":[12,4,6],
 "d5/d4c/group__sorting.html#ga5bc16eaf3ffe6a6ab66780dd445904c0":[14,0,12,7,1],
-"d5/d4c/group__sorting.html#ga8dc3ec66cb3350313fdb34bfd1674729":[14,0,12,5,1],
 "d5/d4c/group__sorting.html#ga8dc3ec66cb3350313fdb34bfd1674729":[12,4,3],
+"d5/d4c/group__sorting.html#ga8dc3ec66cb3350313fdb34bfd1674729":[14,0,12,5,1],
 "d5/d4c/group__sorting.html#ga98666b73777e308fb06a3c489ce25359":[12,4,5],
 "d5/d4c/group__sorting.html#ga98666b73777e308fb06a3c489ce25359":[14,0,12,4,1],
 "d5/d4c/group__sorting.html#gab99b8a397bdd0bf2903d66c22ba4ba43":[12,4,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX1 =
 "d8/d71/group__k__means.html#ga8cc0f5e9645e6faf40d1746acf777944":[14,0,7,1,2],
 "d8/d71/group__k__means.html#gabe256d797c00b793041eac33f07804c1":[14,0,7,1,1],
 "d8/d71/group__k__means.html#gad229b1dc406cb5ea510f26a373ed8bfd":[14,0,7,1,5],
-"d8/d71/group__k__means.html#gad229b1dc406cb5ea510f26a373ed8bfd":[12,2,1,4],
-"d8/d71/group__k__means.html#gad339c41d3ee9e6729aca9e9ab3f7d2d9":[14,0,7,1,4],
-"d8/d71/group__k__means.html#gad339c41d3ee9e6729aca9e9ab3f7d2d9":[12,2,1,3],
-"d8/d71/group__k__means.html#gadee39a3f17bf5144df5592e48dbfc9f7":[12,2,1,2],
-"d8/d71/group__k__means.html#gadee39a3f17bf5144df5592e48dbfc9f7":[14,0,7,1,3],
-"d8/d7a/structtnode.html":[13,0,36]
+"d8/d71/group__k__means.html#gad229b1dc406cb5ea510f26a373ed8bfd":[12,2,1,4]
 };

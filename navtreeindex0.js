@@ -36,6 +36,11 @@ var NAVTREEINDEX0 =
 "d0/d6d/problem__10_2sol1_8c.html#ae3d987cb2ad0ddb0c3caa4c2506a20e5":[14,0,10,1,0,2],
 "d0/d7f/so1_8c.html":[14,0,10,8,0],
 "d0/d7f/so1_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[14,0,10,8,0,0],
+"d0/d8a/octal__to__hexadecimal_8c.html":[14,0,1,3],
+"d0/d8a/octal__to__hexadecimal_8c.html#a042035b4ba7b92974f0edf6eb1b0cbe1":[14,0,1,3,2],
+"d0/d8a/octal__to__hexadecimal_8c.html#a86a4edb605c2a03d9175c59de679347d":[14,0,1,3,1],
+"d0/d8a/octal__to__hexadecimal_8c.html#aa8dca7b867074164d5f45b0f3851269d":[14,0,1,3,3],
+"d0/d8a/octal__to__hexadecimal_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[14,0,1,3,0],
 "d0/d8a/structmax__heap.html":[13,0,21],
 "d0/d8a/structmax__heap.html#a1b632c34e7304f9e0720834200696340":[13,0,21,1],
 "d0/d8a/structmax__heap.html#a917b63797e1857ce994dd5e6cfcebf1e":[13,0,21,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX0 =
 "d4/dcc/strong__number_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[14,0,8,8,1],
 "d4/dd4/struct_graph.html":[13,0,15],
 "d4/dd4/struct_graph.html#a10ff9c6c323cf435f18e424dbb62235e":[13,0,15,3],
-"d4/dd4/struct_graph.html#a14b3734eb135c40cf4401f22bda5bb76":[13,0,15,2],
-"d4/dd4/struct_graph.html#a268ba18d421817ad8713c2e92f19d82a":[13,0,15,5],
-"d4/dd4/struct_graph.html#a2b722f7cfa7a21e4cb5fae488b3d4dcc":[13,0,15,7],
-"d4/dd4/struct_graph.html#a3535be2ce0d62152e54395951330da81":[13,0,15,4],
-"d4/dd4/struct_graph.html#a3ce250f958f7e96ffd9eb06780c21fbe":[13,0,15,1],
-"d4/dd4/struct_graph.html#a6afcd41564ea00294a4c089414979ca1":[13,0,15,8]
+"d4/dd4/struct_graph.html#a14b3734eb135c40cf4401f22bda5bb76":[13,0,15,2]
 };
